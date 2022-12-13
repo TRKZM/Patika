@@ -1,0 +1,63 @@
+.menu{
+margin: 0 auto;
+width: 280px;
+}
+.menu li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 10px;
+}
+.menu li a{
+    text-decoration: none;
+    border: 1px solid #333;
+    padding: 10px;
+}
+.urunler{
+    list-style: none;
+    width: 990px;
+    margin: 30px auto 370px;
+}
+
+.urunler li{
+    float: left;
+}
+
+.urunler li img{
+    width: 170px;
+    display: block;
+    border: 1px solid #e8e8e8;
+    margin: 0px 15px;
+    padding: 20px;
+}
+.urunler li a{
+    margin: 15px 0 0 15px;
+    display: block;
+    text-decoration: none;
+    width: 200px;
+    color: #333;
+    font-weight: 600;
+    font-family: Verdana;
+    font-size: 12px;
+}
+
+.metinBolumu{
+    width: 800px;
+margin: 35px auto 0;
+}
+.metinBolumu h1{
+    font-size: 17px;
+    font-family: Verdana;
+    font-weight: 600;
+    color: #252679;
+}
+.metinBolumu h2{
+    font-size: 17px;
+    font-family: Verdana;
+    font-weight: 600;
+    color: #9d4e14;
+}
+.metinBolumu p{
+    font-family: Verdana;
+    font-size: 15px;
+    margin-bottom: 44px;
+}
