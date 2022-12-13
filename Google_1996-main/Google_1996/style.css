@@ -1,0 +1,65 @@
+/******Body Margin Sıfırlama******/
+body{
+    margin: 0;
+}
+/*******Üst Logo Bölümü*****/
+.ust img{
+    display: block;
+    margin: 0 auto;
+}
+/******Input Bölümü******/
+.orta{
+    background-color: #e8e8e8;
+padding: 10px 0;
+}
+.orta span{
+    text-align: center;
+    display: block;
+}
+.orta input{
+    margin: 0 auto;
+display: block;
+width: 310px;
+}
+.orta .buttonBolumu{
+    text-align: center;
+}
+/******Alt Bölümü******/
+.alt{
+display: block;
+text-align: center;
+font-size: 14px;
+overflow: hidden;
+}
+
+.ilkKutu{
+    background-color: #65e4d7;
+    float: left;
+    width: 39.87%;
+    margin: 3px 1px 0 0;
+    height: 98px;
+}
+
+.ikinciKutu {
+    background-color: #3ccfc0;
+    float: left;
+    width: 20%;
+    height: 98px;
+    margin: 3px 1px 0;
+}
+
+.ucuncuKutu {
+    background-color: #62B3AA;
+    float: left;
+    width: 39.9%;
+    height: 98px;
+    margin: 3px 0 0 1px;
+}
+.ucuncuKutu input{
+    width: 200px;
+}
+
+/**copyright**/
+.copyright{
+    text-align: center;
+}
