@@ -1,2 +1,2 @@
 # Patika
-Patika Ders Çalışmaları
+Patika Çalışmaları
